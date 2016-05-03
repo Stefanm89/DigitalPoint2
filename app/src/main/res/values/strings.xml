@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Digital Point</string>
+    <string name="description_text">Description</string>
+    <string name="title_text">Title</string>
 </resources>
